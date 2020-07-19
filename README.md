@@ -1,4 +1,4 @@
-# Awesome Berlin Machine Learning Startups [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# Awesome Machine Learning Startups Berlin [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 🤖 A curated list of machine learning & artificial intelligence startups in Berlin (Germany)
 
