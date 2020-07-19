@@ -41,10 +41,11 @@ This list is by no means complete. If you think a company should be added or a d
 - [Nocturne](http://nocturne.one/): Measurement of retinal shape changes for neurology
 
 
-## Earth observation
+## Earth observation & geospatial
 
 - [terraloupe](http://www.terraloupe.com/): AI on aerial imagery
 - [up42](https://up42.com/): Platform for earth data and analytics
+- [Motionlogic](https://www.motionlogic.de/blog/de/): Analysis of telco location data for geomarketing insights
 
 
 ## Business
@@ -59,10 +60,11 @@ This list is by no means complete. If you think a company should be added or a d
 
 
 ## Consulting
-- [neurocat](https://www.neurocat.ai/): Research, consulting and dev-ops for AI
+
 - [CodePan](https://www.codepan.com/): Data science R&D lab, focused on sustainability
-- [Merantix](https://www.merantix.com/): AI Venture Builder and Studio
 - [Gestalt Robotics](https://www.gestalt-robotics.com/): Service provider for industrial automation
+- [Merantix](https://www.merantix.com/): AI Venture Builder and Studio
+- [neurocat](https://www.neurocat.ai/): Research, consulting and dev-ops for AI
 
 
 ## Other
