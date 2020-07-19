@@ -2,7 +2,7 @@
 
 🤖 A curated list of machine learning & artificial intelligence startups in Berlin (Germany)
 
-This list is by no means complete. If you think a company should be added or a description is wrong, please make a PR or [write me](johannes.rieke@gmail.com). Startups are listed in alphabetical order. 
+This list is by no means complete. If you think a company should be added or a description is wrong, please make a PR or ping me on [Twitter](https://twitter.com/jrieke) or via [email](johannes.rieke@gmail.com). Startups are listed in alphabetical order. 
 
 
 ## Natural language processing & voice
