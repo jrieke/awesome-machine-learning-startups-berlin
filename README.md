@@ -28,7 +28,7 @@ This list is by no means complete. If you think a company should be added or a d
 ## Computer vision
 
 - [Advertima](https://advertima.com/): Real-time analysis of customers in retail stores
-- [AIServe](https://www.aiserve.co/): Wearable the helps blind people navigate the streets
+- [AIServe](https://www.aiserve.co/): Wearable that helps blind people navigate the streets
 - [Nyris](https://nyris.io/): Computer vision-powered, custom search engine
 - [Parkling](http://www.parkling.eu/): Computer vision solutions for parking
 - [Peregrine](https://peregrine.ai/): Real-time traffic video analytics
@@ -37,6 +37,7 @@ This list is by no means complete. If you think a company should be added or a d
 
 ## Medicine, healthcare & science
 
+- [Aignostics](https://www.aignostics.com/): AI-powered precision diagnostics for pathology
 - [mediaire](https://mediaire.de/en/home/): Analysis of MRI images for brain volumetry and lesion characterization
 - [Nocturne](http://nocturne.one/): Measurement of retinal shape changes for neurology
 
