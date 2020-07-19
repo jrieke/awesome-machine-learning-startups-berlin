@@ -4,8 +4,6 @@
 
 This list is by no means complete. If you think a company should be added or a description is wrong, please make a PR or [write me](johannes.rieke@gmail.com). Startups are listed in alphabetical order. 
 
-![](https://upload.wikimedia.org/wikipedia/commons/e/e1/Silhouette_Berlin.svg)
-
 
 ## Natural language processing & voice
 
@@ -57,3 +55,6 @@ This list is by no means complete. If you think a company should be added or a d
 - [Streem.ai](https://streem.ai/): Anomaly detection
 - [Tracks](https://www.tracksfortrucks.com/): Platform for intelligent logistics & supply chain management
 - [twentybn](https://20bn.com/): Virtual assistants and coaches
+
+
+![](https://upload.wikimedia.org/wikipedia/commons/e/e1/Silhouette_Berlin.svg)
