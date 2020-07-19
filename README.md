@@ -4,6 +4,8 @@
 
 This list is by no means complete. If you think a company should be added or a description is wrong, please make a PR or [write me](johannes.rieke@gmail.com). Startups are listed in alphabetical order. 
 
+![](https://upload.wikimedia.org/wikipedia/commons/e/e1/Silhouette_Berlin.svg)
+
 
 ## Natural language processing & voice
 
