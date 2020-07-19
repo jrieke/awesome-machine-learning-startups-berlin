@@ -43,9 +43,9 @@ This list is by no means complete. If you think a company should be added or a d
 
 ## Earth observation & geospatial
 
+- [Motionlogic](https://www.motionlogic.de/blog/de/): Analysis of telco location data for geomarketing insights
 - [terraloupe](http://www.terraloupe.com/): AI on aerial imagery
 - [up42](https://up42.com/): Platform for earth data and analytics
-- [Motionlogic](https://www.motionlogic.de/blog/de/): Analysis of telco location data for geomarketing insights
 
 
 ## Business
