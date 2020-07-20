@@ -68,6 +68,7 @@ This list is by no means complete. If you think a company should be added or a d
 - [Gestalt Robotics](https://www.gestalt-robotics.com/): Service provider for industrial automation
 - [Merantix](https://www.merantix.com/): AI Venture Builder and Studio
 - [neurocat](https://www.neurocat.ai/): Research, consulting and dev-ops for AI
+- [Unbelievable Machine Company](https://www.unbelievable-machine.com/): Consulting for big data/AI, cloud & security
 
 
 ## Other
