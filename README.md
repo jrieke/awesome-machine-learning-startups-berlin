@@ -8,7 +8,7 @@ This list is by no means complete. If you think a company should be added or a d
 ## Natural language processing & voice
 
 - [Aaron.ai](https://aaron.ai/): Voice processing for companies
-- [chatshopper](https://chatshopper.com/): Chatbot assisstant for fashion shopping
+- [chatshopper](https://chatshopper.com/): Chatbot assistant for fashion shopping
 - [explosion.ai](https://explosion.ai/): Tools for machine learning and NLP (e.g. [spaCy](https://explosion.ai/software#spacy))
 - [Lateral](https://lateral.io/): Tool to discover relevant people and documents within a company
 - [lengoo](https://www.lengoo.com/): Translation service combining AI and linguists
