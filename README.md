@@ -29,7 +29,7 @@ This list is by no means complete. If you think a company should be added or a d
 
 - [Advertima](https://advertima.com/): Real-time analysis of customers in retail stores
 - [AIServe](https://www.aiserve.co/): Wearable that helps blind people navigate the streets
-- [deepfacematch](https://www.deepfacematch.com/): Tool for model and actor agencies to search and analyze images
+- [deep face match](https://www.deepfacematch.com/): Tool for model and actor agencies to search and analyze images of models
 - [Nyris](https://nyris.io/): Computer vision-powered, custom search engine
 - [Parkling](http://www.parkling.eu/): Computer vision solutions for parking
 - [Peregrine](https://peregrine.ai/): Real-time traffic video analytics
