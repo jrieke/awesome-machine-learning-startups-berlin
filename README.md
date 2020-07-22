@@ -26,7 +26,6 @@ This list is by no means complete. If you think a company should be added or a d
 - [MOTOR AI](http://www.motor-ai.com/): Autonomous driving system based on cognitive neuroscience
 - [Phantasma Labs](https://phantasma.global/): Simulations for self-driving cars
 - [Ree](https://ree.technology/): Stealth-mode startup creating a new mobility solution
-- [Understand.ai](https://understand.ai/): Automated training data annotations for self-driving cars
 
 
 ## Computer vision
