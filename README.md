@@ -30,7 +30,6 @@ This list is by no means complete. If you think a company should be added or a d
 
 ## Computer vision
 
-- [Advertima](https://advertima.com/): Real-time analysis of customers in retail stores
 - [AIServe](https://www.aiserve.co/): Wearable that helps blind people navigate the streets
 - [deep face match](https://www.deepfacematch.com/): Tool for model and actor agencies to search and analyze images of models
 - [Nyris](https://nyris.io/): Computer vision-powered, custom search engine
