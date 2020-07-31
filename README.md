@@ -18,6 +18,7 @@ This list is by no means complete. If you think a company should be added or a d
 - [RASA](https://rasa.com/): Framework for chatbots/AI assisstants and NLP tasks
 - [ultimate.ai](https://www.ultimate.ai/): Customer service automation
 - [Audatic](https://audatic.ai/): Sound modification to filter unwanted sounds and enhance interesting ones
+- [Comtravo](https://comtravo.com/): Using on NLP and machine learning to automate business travel bookings (hotels, flights, trains, rental-cars) 
 
 
 ## Self-driving cars & robots
