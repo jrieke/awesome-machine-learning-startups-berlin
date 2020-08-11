@@ -62,6 +62,7 @@ This list is by no means complete. If you think a company should be added or a d
 - [7learning](https://7learnings.com/): Smart dynamic pricing solution
 - [future demand](https://www.future-demand.com/): Predict and optimize demand, e.g. for concert tickets
 - [Inspirient](https://www.inspirient.com/): AI-driven business analytics and anomaly detection
+- [Kausa](https://www.kausa.ai/): Business intelligence venture that helps to understand changing KPIs
 - [Mapegy](https://www.mapegy.com/): Platform for information about global innovation
 - [Omnius](https://omnius.com/): AI for insurance claims
 - [Streem.ai](https://streem.ai/): Intelligent anomaly detection assistant
