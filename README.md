@@ -16,8 +16,11 @@ This list is by no means complete. If you think a company should be added or a d
 - [Lateral](https://lateral.io/): ML platform that helps teams undertake knowledge tasks more efficiently by capturing their expertise
 - [lengoo](https://www.lengoo.com/): Translation service combining AI and linguists
 - [RASA](https://rasa.com/): Framework for chatbots/AI assisstants and NLP tasks
+- [solvemate](https://www.solvemate.com/): Platform for customer service automation
+- [Twyla](https://www.twyla.ai/): Conversation design software for chatbots
 - [ultimate.ai](https://www.ultimate.ai/): Customer service automation
 - [Audatic](https://audatic.ai/): Sound modification to filter unwanted sounds and enhance interesting ones
+- [voixen.ai](https://www.voixen.ai/): Voice analysis for coaching in customer service 
 
 
 ## Self-driving cars & robots
