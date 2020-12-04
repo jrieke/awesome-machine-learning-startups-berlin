@@ -64,10 +64,13 @@ This list is by no means complete. If you think a company should be added or a d
 
 ### 🔬 Medicine, healthcare & science
 
+- [Ada Health](https://ada.com/): AI-powered health app
+- [ai4medicine](https://www.ai4medicine.com/): AI-based data analytics for better prevention, treatment and understanding of diseases
 - [AICURA medical](https://aicura-medical.com/): Infrastructure for federated learning on spatially distributed medical data
 - [Aignostics](https://www.aignostics.com/): AI-powered precision diagnostics for pathology
 - [mediaire](https://mediaire.de/en/home/): Analysis of MRI images for brain volumetry and lesion characterization
 - [Nocturne](http://nocturne.one/): Measurement of retinal shape changes for neurology
+- [Nostos Genomics](https://www.nostos-genomics.com/): AI-driven deciphering of genetic diseases
 - [Vara](https://www.varahealthcare.com/): Breast cancer screening platform powered by AI
 
 
