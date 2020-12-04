@@ -1,10 +1,16 @@
-# Awesome Machine Learning Startups Berlin [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+<h1 align="center">
+  Awesome Machine Learning Startups Berlin <a href="https://awesome.re"><img src="https://awesome.re/badge-flat.svg" alt="Awesome"></a></h1>
+</h1>
 
-🤖 A curated list of machine learning & artificial intelligence startups in Berlin (Germany)
+<p align="center">
+  <strong>🤖 A curated list of machine learning & artificial intelligence startups in Berlin (Germany)</strong>
+</p>
+
+<p align="center">
+  <img src="berlin.png" alt="Berlin">
+</p>
 
 This list is by no means complete. If you think a company should be added or a description is wrong, please make a PR or ping me on [Twitter](https://twitter.com/jrieke) or via [email](johannes.rieke@gmail.com). Startups are listed in alphabetical order. 
-
-![](berlin.png)
 
 
 ### 🗣️ Natural language & voice processing
