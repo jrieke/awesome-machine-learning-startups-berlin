@@ -7,19 +7,23 @@ This list is by no means complete. If you think a company should be added or a d
 ![](berlin.png)
 
 
-### 🗣️ Natural language processing & voice
+### 🗣️ Natural language & voice processing
 
 - [Aaron.ai](https://aaron.ai/): Voice processing for companies
-- [chatshopper](https://chatshopper.com/): Chatbot assistant for fashion shopping
 - [explosion.ai](https://explosion.ai/): Tools for machine learning and NLP (e.g. [spaCy](https://explosion.ai/software#spacy))
-- [i2x](https://i2x.ai/): Real-time conversation analytics and coaching for customer interactions
 - [Lateral](https://lateral.io/): ML platform that helps teams undertake knowledge tasks more efficiently by capturing their expertise
 - [lengoo](https://www.lengoo.com/): Translation service combining AI and linguists
+- [Audatic](https://audatic.ai/): Sound modification to filter unwanted sounds and enhance interesting ones
+
+
+### 🤖 Chatbots & customer service
+
+- [chatshopper](https://chatshopper.com/): Chatbot assistant for fashion shopping
+- [i2x](https://i2x.ai/): Real-time conversation analytics and coaching for customer interactions
 - [RASA](https://rasa.com/): Framework for chatbots/AI assisstants and NLP tasks
 - [solvemate](https://www.solvemate.com/): Platform for customer service automation
 - [Twyla](https://www.twyla.ai/): Conversation design software for chatbots
 - [ultimate.ai](https://www.ultimate.ai/): Customer service automation
-- [Audatic](https://audatic.ai/): Sound modification to filter unwanted sounds and enhance interesting ones
 - [voixen.ai](https://www.voixen.ai/): Voice analysis for coaching in customer service 
 
 
