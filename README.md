@@ -47,6 +47,7 @@ This list is by no means complete. If you think a company should be added or a d
 
 ## Medicine, healthcare & science
 
+- [AICURA medical](https://aicura-medical.com/): Infrastructure for federated learning on spatially distributed medical data
 - [Aignostics](https://www.aignostics.com/): AI-powered precision diagnostics for pathology
 - [mediaire](https://mediaire.de/en/home/): Analysis of MRI images for brain volumetry and lesion characterization
 - [Nocturne](http://nocturne.one/): Measurement of retinal shape changes for neurology
