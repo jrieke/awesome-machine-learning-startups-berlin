@@ -40,6 +40,7 @@ This list is by no means complete. If you think a company should be added or a d
 - [Parkling](http://www.parkling.eu/): Computer vision solutions for parking
 - [Peregrine](https://peregrine.ai/): Real-time traffic video analytics
 - [Smacc](https://www.smacc.io/en/): Invoice processing with AI
+- [Workist](https://workist.com/): Automation of document processing & administrative processes
 
 
 ### 🔍 Search & recommendations
