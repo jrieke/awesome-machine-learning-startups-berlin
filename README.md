@@ -36,6 +36,7 @@ This list is by no means complete. If you think a company should be added or a d
 
 ### 👁️ Computer vision
 
+- [Mobius Labs](https://www.mobiuslabs.com/): Superhuman vision for every application
 - [Parkling](http://www.parkling.eu/): Computer vision solutions for parking
 - [Peregrine](https://peregrine.ai/): Real-time traffic video analytics
 - [Smacc](https://www.smacc.io/en/): Invoice processing with AI
