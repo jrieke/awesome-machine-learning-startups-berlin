@@ -28,7 +28,7 @@ def create_company_description(name):
     # Staff members.
     staff = company["staffCount"]
     staff_url = f"https://www.linkedin.com/company/{name}/people/"
-    md = f"&nbsp;👷 [{staff}]({staff_url})"
+    md = f" &nbsp;[👷{staff}]({staff_url})"
 
     # Funding round.
     if "fundingData" in company:
@@ -38,7 +38,7 @@ def create_company_description(name):
             .title()
         )
         funding_url = company["fundingData"]["fundingRoundListCrunchbaseUrl"]
-        md += f" &nbsp;💰 [{funding}]({funding_url})"
+        md += f" &nbsp;[💰 {funding}]({funding_url})"
 
     # Job openings.
     # Search for all jobs by the (full) company name first.
@@ -53,7 +53,7 @@ def create_company_description(name):
 
     jobs = len(filtered_jobs_list)
     jobs_url = f"https://www.linkedin.com/company/{name}/jobs/"
-    md += f" &nbsp;🎯 [{jobs} openings]({jobs_url})"
+    md += f" &nbsp;[🎯 {jobs}]({jobs_url})"
 
     return md
 
