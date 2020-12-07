@@ -13,11 +13,21 @@ import re
 import os
 import getpass
 from linkedin_api import Linkedin
+from dotenv import load_dotenv
 
 
-# Set up LinkedIn API.
-email = input("LinkedIn email: ")
-password = getpass.getpass()
+# Read LinkedIn account details from .env or terminal.
+load_dotenv()
+email = os.getenv("LINKEDIN_EMAIL")
+password = os.getenv("LINKEDIN_PASSWORD")
+if email is None or password is None:
+    print("Enter LinkedIn account details to query API (or specify .env)")
+    email = input("LinkedIn email: ")
+    password = getpass.getpass()
+else:
+    print("LinkedIn account details read from .env")
+    
+# Set up LinkedIn API. 
 api = Linkedin(email, password)
 
 
@@ -25,22 +35,12 @@ def create_company_description(name):
     """Create a markup description of the company from its LinkedIn `name`."""
     company = api.get_company(name)
 
-    # Staff members.
+    # Number of staff members.
     staff = company["staffCount"]
     staff_url = f"https://www.linkedin.com/company/{name}/people/"
-    md = f" &nbsp;[👷{staff}]({staff_url})"
+    md = f" &nbsp;[👷 {staff}]({staff_url})"
 
-    # Funding round.
-    if "fundingData" in company:
-        funding = (
-            company["fundingData"]["lastFundingRound"]["fundingType"]
-            .replace("_", " ")
-            .title()
-        )
-        funding_url = company["fundingData"]["fundingRoundListCrunchbaseUrl"]
-        md += f" &nbsp;[💰 {funding}]({funding_url})"
-
-    # Job openings.
+    # Number of job openings.
     # Search for all jobs by the (full) company name first.
     # For generic company names, this will return a lot of false positives.
     full_name = company["name"]
@@ -50,10 +50,25 @@ def create_company_description(name):
     filtered_jobs_list = [
         job for job in jobs_list if job["companyDetails"].get("company", "") == urn
     ]
-
     jobs = len(filtered_jobs_list)
-    jobs_url = f"https://www.linkedin.com/company/{name}/jobs/"
-    md += f" &nbsp;[🎯 {jobs}]({jobs_url})"
+    if jobs > 0:
+        jobs_url = f"https://www.linkedin.com/company/{name}/jobs/"
+        md += f" &nbsp;[🎯 {jobs}]({jobs_url})"
+
+    # Funding round.
+    if "fundingData" in company:
+        funding_type = company["fundingData"]["lastFundingRound"]["fundingType"]
+        # Only show "Seed" or "Series X", otherwise show "X rounds" (there are some
+        # other weird funding type names).
+        if funding_type in ["SEED", "SERIES_A", "SERIES_B", "SERIES_C", "SERIES_D"]:
+            funding = funding_type.replace("_", " ").title()
+        else:
+            funding_rounds = company["fundingData"]["numFundingRounds"]
+            funding = f"{funding_rounds} round"
+            if funding_rounds > 1:
+                funding += "s"
+        funding_url = company["fundingData"]["fundingRoundListCrunchbaseUrl"]
+        md += f" &nbsp;[💰 {funding}]({funding_url})"
 
     return md
 
