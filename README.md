@@ -25,6 +25,8 @@ This list is by no means complete. If you think a company should be added or a d
 
 **[Aaron.ai](https://aaron.ai/)**: Voice processing for companies <!--linkedin:aaron-gmbh--> &nbsp;[👷 21](https://www.linkedin.com/company/aaron-gmbh/people/) &nbsp;[🎯 11](https://www.linkedin.com/company/aaron-gmbh/jobs/) &nbsp;[💰 Seed](https://www.crunchbase.com/organization/aaron-ai-2/funding_rounds/funding_rounds_list?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=all_fundings)<!--endlinkedin-->
 
+**[deepset](https://deepset.ai/)**: Natural language processing and neural search for developers & enterprise <!--linkedin:deepset-ai--> &nbsp;[👷 10](https://www.linkedin.com/company/deepset-ai/people/) &nbsp;[🎯 1](https://www.linkedin.com/company/deepset-ai/jobs/)<!--endlinkedin-->
+
 **[explosion.ai](https://explosion.ai/)**: Tools for machine learning and NLP (e.g. [spaCy](https://explosion.ai/software#spacy)) <!--linkedin:explosion-ai--> &nbsp;[👷 6](https://www.linkedin.com/company/explosion-ai/people/)<!--endlinkedin-->
 
 **[Lateral](https://lateral.io/)**: ML platform that helps teams with knowledge tasks by capturing their expertise <!--linkedin:lateral-gmbh--> &nbsp;[👷 7](https://www.linkedin.com/company/lateral-gmbh/people/) &nbsp;[💰 Seed](https://www.crunchbase.com/organization/lateral-2/funding_rounds/funding_rounds_list?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=all_fundings)<!--endlinkedin-->
@@ -44,7 +46,7 @@ This list is by no means complete. If you think a company should be added or a d
 
 **[RASA](https://rasa.com/)**: Framework for chatbots/AI assisstants and NLP tasks <!--linkedin:rasa.--> &nbsp;[👷 112](https://www.linkedin.com/company/rasa./people/) &nbsp;[🎯 6](https://www.linkedin.com/company/rasa./jobs/) &nbsp;[💰 Series B](https://www.crunchbase.com/organization/rasa/funding_rounds/funding_rounds_list?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=all_fundings)<!--endlinkedin-->
 
-**[solvemate](https://www.solvemate.com/)**: Platform for customer service automation <!--linkedin:solvemate--> &nbsp;[👷 41](https://www.linkedin.com/company/solvemate/people/) &nbsp;[🎯 2](https://www.linkedin.com/company/solvemate/jobs/) &nbsp;[💰 3 rounds](https://www.crunchbase.com/organization/solvemate/funding_rounds/funding_rounds_list?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=all_fundings)<!--endlinkedin-->
+**[solvemate](https://www.solvemate.com/)**: Platform for customer service automation <!--linkedin:solvemate--> &nbsp;[👷 41](https://www.linkedin.com/company/solvemate/people/) &nbsp;[🎯 3](https://www.linkedin.com/company/solvemate/jobs/) &nbsp;[💰 3 rounds](https://www.crunchbase.com/organization/solvemate/funding_rounds/funding_rounds_list?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=all_fundings)<!--endlinkedin-->
 
 **[Twyla](https://www.twyla.ai/)**: Conversation design software for chatbots <!--linkedin:twyla-ai--> &nbsp;[👷 5](https://www.linkedin.com/company/twyla-ai/people/) &nbsp;[💰 Seed](https://www.crunchbase.com/organization/twyla/funding_rounds/funding_rounds_list?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=all_fundings)<!--endlinkedin-->
 
@@ -59,7 +61,7 @@ This list is by no means complete. If you think a company should be added or a d
 
 **[Mobius Labs](https://www.mobiuslabs.com/)**: Superhuman vision for every application <!--linkedin:mobiuslabs--> &nbsp;[👷 23](https://www.linkedin.com/company/mobiuslabs/people/)<!--endlinkedin-->
 
-**[Parkling](http://www.parkling.eu/)**: Computer vision solutions for parking <!--linkedin:parkling--> &nbsp;[👷 16](https://www.linkedin.com/company/parkling/people/)<!--endlinkedin-->
+**[Parkling](http://www.parkling.eu/)**: Computer vision solutions for parking <!--linkedin:parkling--> &nbsp;[👷 16](https://www.linkedin.com/company/parkling/people/) &nbsp;[🎯 1](https://www.linkedin.com/company/parkling/jobs/)<!--endlinkedin-->
 
 **[Peregrine](https://peregrine.ai/)**: Real-time traffic video analytics <!--linkedin:peregrine-ai--> &nbsp;[👷 16](https://www.linkedin.com/company/peregrine-ai/people/)<!--endlinkedin-->
 
@@ -89,7 +91,7 @@ This list is by no means complete. If you think a company should be added or a d
 
 **[deepsafety](https://deepsafety.ai/)**: AI safety solutions for autonomous driving <!--linkedin:deepsafety--> &nbsp;[👷 2](https://www.linkedin.com/company/deepsafety/people/)<!--endlinkedin-->
 
-**[Micropsi Industries](https://www.micropsi-industries.com/)**: Robots that can be trained by humans <!--linkedin:micropsi-industries--> &nbsp;[👷 40](https://www.linkedin.com/company/micropsi-industries/people/) &nbsp;[🎯 3](https://www.linkedin.com/company/micropsi-industries/jobs/) &nbsp;[💰 Series A](https://www.crunchbase.com/organization/micropsi-industries/funding_rounds/funding_rounds_list?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=all_fundings)<!--endlinkedin-->
+**[Micropsi Industries](https://www.micropsi-industries.com/)**: Robots that can be trained by humans <!--linkedin:micropsi-industries--> &nbsp;[👷 40](https://www.linkedin.com/company/micropsi-industries/people/) &nbsp;[🎯 4](https://www.linkedin.com/company/micropsi-industries/jobs/) &nbsp;[💰 Series A](https://www.crunchbase.com/organization/micropsi-industries/funding_rounds/funding_rounds_list?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=all_fundings)<!--endlinkedin-->
 
 **[MOTOR AI](http://www.motor-ai.com/)**: Autonomous driving system based on cognitive neuroscience <!--linkedin:motorai--> &nbsp;[👷 11](https://www.linkedin.com/company/motorai/people/)<!--endlinkedin-->
 
@@ -120,7 +122,7 @@ This list is by no means complete. If you think a company should be added or a d
 
 **[Nocturne](http://nocturne.one/)**: Measurement of retinal shape changes for neurology <!--linkedin:nocturne-gmbh--> &nbsp;[👷 2](https://www.linkedin.com/company/nocturne-gmbh/people/)<!--endlinkedin-->
 
-**[Nostos Genomics](https://www.nostos-genomics.com/)**: AI-driven deciphering of genetic diseases <!--linkedin:nostosgenomics--> &nbsp;[👷 5](https://www.linkedin.com/company/nostosgenomics/people/) &nbsp;[🎯 1](https://www.linkedin.com/company/nostosgenomics/jobs/) &nbsp;[💰 1 round](https://www.crunchbase.com/organization/nostos-genomics/funding_rounds/funding_rounds_list?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=all_fundings)<!--endlinkedin-->
+**[Nostos Genomics](https://www.nostos-genomics.com/)**: AI-driven deciphering of genetic diseases <!--linkedin:nostosgenomics--> &nbsp;[👷 5](https://www.linkedin.com/company/nostosgenomics/people/) &nbsp;[💰 1 round](https://www.crunchbase.com/organization/nostos-genomics/funding_rounds/funding_rounds_list?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=all_fundings)<!--endlinkedin-->
 
 **[Vara](https://www.varahealthcare.com/)**: Breast cancer screening platform powered by AI <!--linkedin:vara-ai--> &nbsp;[👷 31](https://www.linkedin.com/company/vara-ai/people/) &nbsp;[💰 Series A](https://www.crunchbase.com/organization/vara/funding_rounds/funding_rounds_list?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=all_fundings)<!--endlinkedin-->
 
@@ -180,7 +182,7 @@ This list is by no means complete. If you think a company should be added or a d
 
 **[conductiv.ai](https://conductiv.ai/)**: Zero-iteration manufacturing for semiconductors <!--linkedin:conductivai--> &nbsp;[👷 2](https://www.linkedin.com/company/conductivai/people/) &nbsp;[🎯 1](https://www.linkedin.com/company/conductivai/jobs/) &nbsp;[💰 1 round](https://www.crunchbase.com/organization/conductiv-ai/funding_rounds/funding_rounds_list?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=all_fundings)<!--endlinkedin-->
 
-**[Merantix](https://www.merantix.com/)**: AI Venture Builder and Studio <!--linkedin:merantix--> &nbsp;[👷 33](https://www.linkedin.com/company/merantix/people/) &nbsp;[🎯 5](https://www.linkedin.com/company/merantix/jobs/) &nbsp;[💰 Series A](https://www.crunchbase.com/organization/merantix/funding_rounds/funding_rounds_list?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=all_fundings)<!--endlinkedin-->
+**[Merantix](https://www.merantix.com/)**: AI Venture Builder and Studio <!--linkedin:merantix--> &nbsp;[👷 33](https://www.linkedin.com/company/merantix/people/) &nbsp;[🎯 4](https://www.linkedin.com/company/merantix/jobs/) &nbsp;[💰 Series A](https://www.crunchbase.com/organization/merantix/funding_rounds/funding_rounds_list?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=all_fundings)<!--endlinkedin-->
 
 **[Parcello](https://www.parcello.org/)**: Delivery time prediction for parcels <!--linkedin:parcellogmbh--> &nbsp;[👷 3](https://www.linkedin.com/company/parcellogmbh/people/)<!--endlinkedin-->
 
