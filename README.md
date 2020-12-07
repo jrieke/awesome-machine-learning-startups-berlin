@@ -28,6 +28,7 @@ This list is by no means complete. If you think a company should be added or a d
 - **[lengoo](https://www.lengoo.com/)**: Translation service combining AI and linguists <!--linkedin:lengoo--> &nbsp;[👷 124](https://www.linkedin.com/company/lengoo/people/) &nbsp;[🎯 3](https://www.linkedin.com/company/lengoo/jobs/) &nbsp;[💰 Series A](https://www.crunchbase.com/organization/lengoo-gmbh/funding_rounds/funding_rounds_list?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=all_fundings)<!--endlinkedin-->
 - **[Audatic](https://audatic.ai/)**: Sound modification to filter unwanted sounds and enhance interesting ones <!--linkedin:audatic-ai--> &nbsp;[👷 13](https://www.linkedin.com/company/audatic-ai/people/) &nbsp;[🎯 3](https://www.linkedin.com/company/audatic-ai/jobs/)<!--endlinkedin-->
 
+<br>
 
 ## 🤖 Chatbots & customer service
 
@@ -39,6 +40,7 @@ This list is by no means complete. If you think a company should be added or a d
 - **[ultimate.ai](https://www.ultimate.ai/)**: Customer service automation <!--linkedin:ultimate.ai--> &nbsp;[👷 61](https://www.linkedin.com/company/ultimate.ai/people/) &nbsp;[🎯 1](https://www.linkedin.com/company/ultimate.ai/jobs/) &nbsp;[💰 Seed](https://www.crunchbase.com/organization/ultimate-ai/funding_rounds/funding_rounds_list?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=all_fundings)<!--endlinkedin-->
 - **[voixen.ai](https://www.voixen.ai/)**: Voice analysis for coaching in customer service <!--linkedin:voixen--> &nbsp;[👷 13](https://www.linkedin.com/company/voixen/people/)<!--endlinkedin-->
 
+<br>
 
 ## 👁️ Computer vision
 
@@ -48,6 +50,7 @@ This list is by no means complete. If you think a company should be added or a d
 - **[Smacc](https://www.smacc.io/en/)**: Invoice processing with AI <!--linkedin:smacc-gmbh--> &nbsp;[👷 12](https://www.linkedin.com/company/smacc-gmbh/people/) &nbsp;[💰 5 rounds](https://www.crunchbase.com/organization/smacc-gmbh/funding_rounds/funding_rounds_list?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=all_fundings)<!--endlinkedin-->
 - **[Workist](https://workist.com/)**: Automation of document processing & administrative processes <!--linkedin:workist-com--> &nbsp;[👷 8](https://www.linkedin.com/company/workist-com/people/)<!--endlinkedin-->
 
+<br>
 
 ## 🔍 Search & recommendations
 
@@ -55,6 +58,7 @@ This list is by no means complete. If you think a company should be added or a d
 - **[JustWatch](https://www.justwatch.com/)**: Recommendation system for streaming services <!--linkedin:justwatch--> &nbsp;[👷 79](https://www.linkedin.com/company/justwatch/people/) &nbsp;[🎯 5](https://www.linkedin.com/company/justwatch/jobs/) &nbsp;[💰 Seed](https://www.crunchbase.com/organization/justwatch/funding_rounds/funding_rounds_list?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=all_fundings)<!--endlinkedin-->
 - **[Nyris](https://nyris.io/)**: Computer vision-powered, custom search engine <!--linkedin:nyris--> &nbsp;[👷 29](https://www.linkedin.com/company/nyris/people/) &nbsp;[🎯 1](https://www.linkedin.com/company/nyris/jobs/)<!--endlinkedin-->
 
+<br>
 
 ## 🚗 Self-driving cars & robots
 
@@ -68,6 +72,7 @@ This list is by no means complete. If you think a company should be added or a d
 - **[SiaSearch](https://www.siasearch.io/)**: Smart data decisions for automotive developers <!--linkedin:siasearch--> &nbsp;[👷 14](https://www.linkedin.com/company/siasearch/people/) &nbsp;[🎯 2](https://www.linkedin.com/company/siasearch/jobs/)<!--endlinkedin-->
 - **[Teraki](https://www.teraki.com/)**: Data mobility applications <!--linkedin:teraki--> &nbsp;[👷 50](https://www.linkedin.com/company/teraki/people/) &nbsp;[🎯 3](https://www.linkedin.com/company/teraki/jobs/) &nbsp;[💰 9 rounds](https://www.crunchbase.com/organization/teraki/funding_rounds/funding_rounds_list?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=all_fundings)<!--endlinkedin-->
 
+<br>
 
 ## 🔬 Medicine, healthcare & science
 
@@ -81,12 +86,14 @@ This list is by no means complete. If you think a company should be added or a d
 - **[Nostos Genomics](https://www.nostos-genomics.com/)**: AI-driven deciphering of genetic diseases <!--linkedin:nostosgenomics--> &nbsp;[👷 5](https://www.linkedin.com/company/nostosgenomics/people/) &nbsp;[🎯 1](https://www.linkedin.com/company/nostosgenomics/jobs/) &nbsp;[💰 1 round](https://www.crunchbase.com/organization/nostos-genomics/funding_rounds/funding_rounds_list?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=all_fundings)<!--endlinkedin-->
 - **[Vara](https://www.varahealthcare.com/)**: Breast cancer screening platform powered by AI <!--linkedin:vara-ai--> &nbsp;[👷 31](https://www.linkedin.com/company/vara-ai/people/) &nbsp;[💰 Series A](https://www.crunchbase.com/organization/vara/funding_rounds/funding_rounds_list?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=all_fundings)<!--endlinkedin-->
 
+<br>
 
 ## 🌍 Earth observation & geospatial
 
 - **[Motionlogic](https://motionlogic.de/motionlogic/)**: Analysis of telco location data for geomarketing insights <!--linkedin:motionlogic--> &nbsp;[👷 10](https://www.linkedin.com/company/motionlogic/people/)<!--endlinkedin-->
 - **[UP42](https://up42.com/)**: Platform for earth data and analytics <!--linkedin:up42--> &nbsp;[👷 52](https://www.linkedin.com/company/up42/people/) &nbsp;[🎯 1](https://www.linkedin.com/company/up42/jobs/)<!--endlinkedin-->
 
+<br>
 
 ## 💰 Business
 
@@ -99,6 +106,7 @@ This list is by no means complete. If you think a company should be added or a d
 - **[Streem.ai](https://streem.ai/)**: Intelligent anomaly detection assistant <!--linkedin:streem-ai--> &nbsp;[👷 11](https://www.linkedin.com/company/streem-ai/people/)<!--endlinkedin-->
 - **[Tracks](https://www.tracksfortrucks.com/)**: Platform for intelligent logistics & supply chain management <!--linkedin:tracksfortrucks--> &nbsp;[👷 16](https://www.linkedin.com/company/tracksfortrucks/people/) &nbsp;[💰 Seed](https://www.crunchbase.com/organization/tracks-fa20/funding_rounds/funding_rounds_list?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=all_fundings)<!--endlinkedin-->
 
+<br>
 
 ## 👔 Consulting
 
@@ -109,6 +117,7 @@ This list is by no means complete. If you think a company should be added or a d
 - **[neurocat](https://www.neurocat.ai/)**: Research, consulting and dev-ops for AI <!--linkedin:neurocatai--> &nbsp;[👷 25](https://www.linkedin.com/company/neurocatai/people/)<!--endlinkedin-->
 - **[Unbelievable Machine Company](https://www.unbelievable-machine.com/)**: Consulting for big data/AI, cloud & security <!--linkedin:the-unbelievable-machine-company-gmbh--> &nbsp;[👷 109](https://www.linkedin.com/company/the-unbelievable-machine-company-gmbh/people/) &nbsp;[🎯 5](https://www.linkedin.com/company/the-unbelievable-machine-company-gmbh/jobs/)<!--endlinkedin-->
 
+<br>
 
 ## 🚀 Other
 
