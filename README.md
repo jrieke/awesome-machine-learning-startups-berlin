@@ -85,8 +85,7 @@ This list is by no means complete. If you think a company should be added or a d
 ### 🌍 Earth observation & geospatial
 
 - [Motionlogic](https://motionlogic.de/motionlogic/): Analysis of telco location data for geomarketing insights <!--linkedin:motionlogic--> &nbsp;[👷 10](https://www.linkedin.com/company/motionlogic/people/)<!--endlinkedin-->
-- [terraloupe](http://www.terraloupe.com/): AI on aerial imagery <!--linkedin:terraloupe--> &nbsp;[👷 8](https://www.linkedin.com/company/terraloupe/people/) &nbsp;[💰 Series A](https://www.crunchbase.com/organization/terraloupe/funding_rounds/funding_rounds_list?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=all_fundings)<!--endlinkedin-->
-- [up42](https://up42.com/): Platform for earth data and analytics <!--linkedin:up42--> &nbsp;[👷 52](https://www.linkedin.com/company/up42/people/) &nbsp;[🎯 1](https://www.linkedin.com/company/up42/jobs/)<!--endlinkedin-->
+- [UP42](https://up42.com/): Platform for earth data and analytics <!--linkedin:up42--> &nbsp;[👷 52](https://www.linkedin.com/company/up42/people/) &nbsp;[🎯 1](https://www.linkedin.com/company/up42/jobs/)<!--endlinkedin-->
 
 
 ### 💰 Business
