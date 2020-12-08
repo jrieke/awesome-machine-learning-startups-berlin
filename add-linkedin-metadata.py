@@ -55,7 +55,7 @@ def main(skip_existing: bool = False):
         jobs = len(filtered_jobs_list)
         if jobs > 0:
             jobs_url = f"https://www.linkedin.com/company/{name}/jobs/"
-            md += f" &nbsp;[🎯 {jobs}]({jobs_url})"
+            md += f" &nbsp;[🔎 {jobs}]({jobs_url})"
 
         # Funding round.
         if "fundingData" in company:
