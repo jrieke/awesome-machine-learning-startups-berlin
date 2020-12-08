@@ -22,7 +22,6 @@ This list is by no means complete. If you think a company should be added or a d
 
 ## 🗣️ Natural language & voice processing
 
-
 **[Aaron.ai](https://aaron.ai/)**: Voice processing for companies <!--linkedin:aaron-gmbh--> &nbsp;[👷 21](https://www.linkedin.com/company/aaron-gmbh/people/) &nbsp;[🎯 11](https://www.linkedin.com/company/aaron-gmbh/jobs/) &nbsp;[💰 Seed](https://www.crunchbase.com/organization/aaron-ai-2/funding_rounds/funding_rounds_list?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=all_fundings)<!--endlinkedin-->
 
 **[deepset](https://deepset.ai/)**: Natural language processing and neural search for developers & enterprise <!--linkedin:deepset-ai--> &nbsp;[👷 10](https://www.linkedin.com/company/deepset-ai/people/) &nbsp;[🎯 1](https://www.linkedin.com/company/deepset-ai/jobs/)<!--endlinkedin-->
@@ -38,7 +37,6 @@ This list is by no means complete. If you think a company should be added or a d
 <br>
 
 ## 🤖 Chatbots & customer service
-
 
 **[chatshopper](https://chatshopper.com/)**: Chatbot assistant for fashion shopping <!--linkedin:chatshopper--> &nbsp;[👷 3](https://www.linkedin.com/company/chatshopper/people/) &nbsp;[💰 2 rounds](https://www.crunchbase.com/organization/chatshopper/funding_rounds/funding_rounds_list?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=all_fundings)<!--endlinkedin-->
 
@@ -58,6 +56,7 @@ This list is by no means complete. If you think a company should be added or a d
 
 ## 👁️ Computer vision
 
+**[Hypatos](https://hypatos.ai/)**: Document processing with deep learning <!--linkedin:hypatos--> &nbsp;[👷 30](https://www.linkedin.com/company/hypatos/people/) &nbsp;[🎯 10](https://www.linkedin.com/company/hypatos/jobs/) &nbsp;[💰 Seed](https://www.crunchbase.com/organization/hypatos/funding_rounds/funding_rounds_list?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=all_fundings)<!--endlinkedin-->
 
 **[Mobius Labs](https://www.mobiuslabs.com/)**: Superhuman vision for every application <!--linkedin:mobiuslabs--> &nbsp;[👷 23](https://www.linkedin.com/company/mobiuslabs/people/)<!--endlinkedin-->
 
@@ -73,7 +72,6 @@ This list is by no means complete. If you think a company should be added or a d
 
 ## 🔍 Search & recommendations
 
-
 **[Jina AI](https://jina.ai/)**: An easier way to build neural search in the cloud <!--linkedin:jinaai--> &nbsp;[👷 23](https://www.linkedin.com/company/jinaai/people/) &nbsp;[🎯 17](https://www.linkedin.com/company/jinaai/jobs/) &nbsp;[💰 2 rounds](https://www.crunchbase.com/organization/jina-ai/funding_rounds/funding_rounds_list?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=all_fundings)<!--endlinkedin-->
 
 **[JustWatch](https://www.justwatch.com/)**: Recommendation system for streaming services <!--linkedin:justwatch--> &nbsp;[👷 79](https://www.linkedin.com/company/justwatch/people/) &nbsp;[🎯 5](https://www.linkedin.com/company/justwatch/jobs/) &nbsp;[💰 Seed](https://www.crunchbase.com/organization/justwatch/funding_rounds/funding_rounds_list?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=all_fundings)<!--endlinkedin-->
@@ -83,7 +81,6 @@ This list is by no means complete. If you think a company should be added or a d
 <br>
 
 ## 🚗 Self-driving cars & robots
-
 
 **[enway](https://enway.ai/)**: Autonomous cleaning robot for industry applications <!--linkedin:enway--> &nbsp;[👷 46](https://www.linkedin.com/company/enway/people/) &nbsp;[💰 Seed](https://www.crunchbase.com/organization/enway/funding_rounds/funding_rounds_list?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=all_fundings)<!--endlinkedin-->
 
@@ -107,7 +104,6 @@ This list is by no means complete. If you think a company should be added or a d
 
 ## 🔬 Medicine, healthcare & science
 
-
 **[Ada Health](https://ada.com/)**: AI-powered health & diagnosis app <!--linkedin:ada-health--> &nbsp;[👷 205](https://www.linkedin.com/company/ada-health/people/) &nbsp;[🎯 21](https://www.linkedin.com/company/ada-health/jobs/) &nbsp;[💰 Series A](https://www.crunchbase.com/organization/adahealth/funding_rounds/funding_rounds_list?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=all_fundings)<!--endlinkedin-->
 
 **[ai4medicine](https://www.ai4medicine.com/)**: Data analytics for prevention, treatment, and understanding of diseases <!--linkedin:ai4medicine--> &nbsp;[👷 5](https://www.linkedin.com/company/ai4medicine/people/) &nbsp;[💰 Seed](https://www.crunchbase.com/organization/ai4medicine/funding_rounds/funding_rounds_list?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=all_fundings)<!--endlinkedin-->
@@ -130,7 +126,6 @@ This list is by no means complete. If you think a company should be added or a d
 
 ## 🌍 Earth observation & geospatial
 
-
 **[Motionlogic](https://motionlogic.de/motionlogic/)**: Analysis of telco location data for geomarketing insights <!--linkedin:motionlogic--> &nbsp;[👷 10](https://www.linkedin.com/company/motionlogic/people/)<!--endlinkedin-->
 
 **[UP42](https://up42.com/)**: Platform for earth data and analytics <!--linkedin:up42--> &nbsp;[👷 52](https://www.linkedin.com/company/up42/people/) &nbsp;[🎯 1](https://www.linkedin.com/company/up42/jobs/)<!--endlinkedin-->
@@ -138,7 +133,6 @@ This list is by no means complete. If you think a company should be added or a d
 <br>
 
 ## 💰 Business
-
 
 **[7Learnings](https://7learnings.com/)**: Smart dynamic pricing solution <!--linkedin:7learnings--> &nbsp;[👷 9](https://www.linkedin.com/company/7learnings/people/) &nbsp;[🎯 1](https://www.linkedin.com/company/7learnings/jobs/)<!--endlinkedin-->
 
@@ -160,7 +154,6 @@ This list is by no means complete. If you think a company should be added or a d
 
 ## 👔 Consulting
 
-
 **[CodePan](https://www.codepan.com/)**: Data science R&D lab, focused on sustainability <!--linkedin:code-pan--> &nbsp;[👷 10](https://www.linkedin.com/company/code-pan/people/) &nbsp;[🎯 1](https://www.linkedin.com/company/code-pan/jobs/)<!--endlinkedin-->
 
 **[dida](https://dida.do/)**: Custom Workflow-Automation Software <!--linkedin:dida-datenschmiede--> &nbsp;[👷 20](https://www.linkedin.com/company/dida-datenschmiede/people/)<!--endlinkedin-->
@@ -176,7 +169,6 @@ This list is by no means complete. If you think a company should be added or a d
 <br>
 
 ## 🚀 Other
-
 
 **[Bliq](https://bliq.ai/)**: AI-powered assistant app for drivers of ridesharing services <!--linkedin:bliq-ai--> &nbsp;[👷 11](https://www.linkedin.com/company/bliq-ai/people/) &nbsp;[💰 Seed](https://www.crunchbase.com/organization/bliq/funding_rounds/funding_rounds_list?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=all_fundings)<!--endlinkedin-->
 
