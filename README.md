@@ -44,8 +44,6 @@ This list is by no means complete. If you think a company should be added or a d
 
 ## 🤖 Chatbots & customer service
 
-**[chatshopper](https://chatshopper.com/)**: Chatbot assistant for fashion shopping <!--linkedin:chatshopper--> &nbsp;[👷 3](https://www.linkedin.com/company/chatshopper/people/) &nbsp;[💰 2 rounds](https://www.crunchbase.com/organization/chatshopper/funding_rounds/funding_rounds_list?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=all_fundings)<!--endlinkedin-->
-
 **[i2x](https://i2x.ai/)**: Real-time conversation analytics and coaching for customer interactions <!--linkedin:i2x-ai--> &nbsp;[👷 41](https://www.linkedin.com/company/i2x-ai/people/) &nbsp;[💰 Series A](https://www.crunchbase.com/organization/i2x-0963/funding_rounds/funding_rounds_list?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=all_fundings)<!--endlinkedin-->
 
 **[RASA](https://rasa.com/)**: Framework for chatbots/AI assisstants and NLP tasks <!--linkedin:rasa.--> &nbsp;[👷 112](https://www.linkedin.com/company/rasa./people/) &nbsp;[🔎 6](https://www.linkedin.com/company/rasa./jobs/) &nbsp;[💰 Series B](https://www.crunchbase.com/organization/rasa/funding_rounds/funding_rounds_list?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=all_fundings)<!--endlinkedin-->
