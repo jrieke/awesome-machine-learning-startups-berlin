@@ -162,6 +162,8 @@ This list is by no means complete. If you think a company should be added or a d
 
 **[Tracks](https://www.tracksfortrucks.com/)**: Platform for intelligent logistics & supply chain management <!--linkedin:tracksfortrucks--> &nbsp;[👷 16](https://www.linkedin.com/company/tracksfortrucks/people/) &nbsp;[💰 Seed](https://www.crunchbase.com/organization/tracks-fa20/funding_rounds/funding_rounds_list?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=all_fundings)<!--endlinkedin-->
 
+**[Kineo.ai](https://kineo.ai/)**: Proving business value of AI in less than 4 weeks <!--linkedin:kineo-ai--> &nbsp;[👷 5](https://www.linkedin.com/company/kineo-ai/people/)<!--endlinkedin-->
+
 <br>
 
 ## 👔 Consulting
