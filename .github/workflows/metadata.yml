@@ -18,6 +18,9 @@ jobs:
             if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
       - name: Run script
           run: python add-linkedin-metadata.py --force
+          env:
+            LINKEDIN_EMAIL: ${{ secrets.LINKEDIN_EMAIL }}
+            LINKEDIN_PASSWORD: ${{ secrets.LINKEDIN_PASSWORD }}
       - name: Push updated file to Github
           uses: test-room-7/action-update-file@v1
           with:
