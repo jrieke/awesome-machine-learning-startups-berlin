@@ -1,12 +1,8 @@
 """
 Retrieves metadata about companies from LinkedIn and adds it to README.md.
 
-Set tags <!--linkedin:company_name--><!--endlinkedin--> in README.md to specify 
-where to add metadata. `company_name` should correspond to the unique company name on
-LinkedIn (it's the last piece of the URL of the company's LinkedIn page).
-
-The script asks for LinkedIn email/password at startup to access the API. Old readme 
-file is backed up to `old-README.md` (make sure to keep that in .gitignore!)
+Requires LinkedIn account details to query API. Enter at beginning of the script or 
+save in .env file (as LINKEDIN_EMAIL and LINKEDIN_PASSWORD).
 """
 
 import re
@@ -17,14 +13,22 @@ from dotenv import load_dotenv
 import typer
 
 
-def main(skip_existing: bool = False):
+def main(skip_existing: bool = False, force: bool = False):
+    """
+    Pull company metadata from LinkedIn and write to tags in README.md.
+    
+    Add tags <!--linkedin:company_name--><!--endlinkedin--> to README.md, where 
+    `company_name` corresponds to the last piece of the company's LinkedIn URL. 
+    """
 
     # Read LinkedIn account details from .env or terminal.
     load_dotenv()
     email = os.getenv("LINKEDIN_EMAIL")
     password = os.getenv("LINKEDIN_PASSWORD")
     if email is None or password is None:
-        typer.echo("Enter LinkedIn account details to query API (or specify .env)")
+        typer.echo("Enter LinkedIn account to query the API (or use .env file)")
+        typer.echo("WARNING: Accounts with excessive API calls are sometimes blocked "
+                   "by LinkedIn.")
         email = input("LinkedIn email: ")
         password = getpass.getpass()
     else:
@@ -84,7 +88,7 @@ def main(skip_existing: bool = False):
         "<!--linkedin:(.*?)-->(.*?)<!--endlinkedin-->", text
     ):
         if skip_existing and old_desc:
-            typer.echo(name+ ": skipped")
+            typer.echo(name + ": skipped")
         else:
             typer.echo(name + ":")
             new_desc = create_company_description(name)
@@ -103,14 +107,17 @@ def main(skip_existing: bool = False):
     typer.echo("-" * 80)
 
     # Write to file.
-    write = input("Write modified text above to README.md? (Y/n) ")
+    if force:
+        write = "y"
+    else:
+        write = input("Review modified text above. Write to README.md? (Y/n) ")
     if write.lower() in ["", "y", "yes"]:
         os.rename("README.md", "old-README.md")
         with open("README.md", "w") as f:
             f.write(text)
-        typer.echo("✓ Updated README.md (old file stored in old-README.md")
+        typer.secho("✓ Updated README.md (old file stored in old-README.md", fg="green")
     else:
-        typer.echo("✗ Did NOT update README.md")
+        typer.secho("✗ Did NOT update README.md", fg="red")
 
 
 if __name__ == "__main__":
