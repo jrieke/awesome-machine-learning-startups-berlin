@@ -5,6 +5,7 @@ jobs:
     name: Pull metadata from LinkedIn
     runs-on: ubuntu-latest
 
+    
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
@@ -26,5 +27,5 @@ jobs:
           with:
             file-path: README.md
             commit-msg: Update metadata (automatic commit from Github actions)
-            github-token: ${{ secrets.GITHUB_TOKEN }}
+            github-token: ${{ secrets.GH_TOKEN }}
       
