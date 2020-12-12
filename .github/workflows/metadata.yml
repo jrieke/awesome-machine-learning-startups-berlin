@@ -4,8 +4,6 @@ jobs:
   metadata:
     name: Pull metadata from LinkedIn
     runs-on: ubuntu-latest
-
-    
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
@@ -14,18 +12,18 @@ jobs:
         with:
           python-version: 3.7
       - name: Install dependencies
-          run: |
-            python -m pip install --upgrade pip
-            if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
       - name: Run script
-          run: python add-linkedin-metadata.py --force
-          env:
-            LINKEDIN_EMAIL: ${{ secrets.LINKEDIN_EMAIL }}
-            LINKEDIN_PASSWORD: ${{ secrets.LINKEDIN_PASSWORD }}
+        run: python add-linkedin-metadata.py --force
+        env:
+          LINKEDIN_EMAIL: ${{ secrets.LINKEDIN_EMAIL }}
+          LINKEDIN_PASSWORD: ${{ secrets.LINKEDIN_PASSWORD }}
       - name: Push updated file to Github
-          uses: test-room-7/action-update-file@v1
-          with:
-            file-path: README.md
-            commit-msg: Update metadata (automatic commit from Github actions)
-            github-token: ${{ secrets.GH_TOKEN }}
+        uses: test-room-7/action-update-file@v1
+        with:
+          file-path: README.md
+          commit-msg: Update metadata (automatic commit from Github actions)
+          github-token: ${{ secrets.GH_TOKEN }}
       
