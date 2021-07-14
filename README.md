@@ -30,6 +30,7 @@ This list is by no means complete. If you think a company should be added or a d
 
 **[lengoo](https://www.lengoo.com/)**: Translation service combining AI and linguists <!--linkedin:lengoo--> &nbsp;[👷 130](https://www.linkedin.com/company/lengoo/people/) &nbsp;[🔎 1](https://www.linkedin.com/company/lengoo/jobs/) &nbsp;[💰 Series A](https://www.crunchbase.com/organization/lengoo-gmbh/funding_rounds/funding_rounds_list?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=all_fundings)<!--endlinkedin-->
 
+**[UBIAI](https://ubiai.tools/)**: Easy-to-use text annotation tool for teams with most comprehensive auto-annotation features. Supports NER, relations and document classification as well as OCR annotation for invoice labeling <!--linkedin:explosion-ai--> &nbsp;[👷 6](https://www.linkedin.com/company/ubiai/)<!--endlinkedin-->
 <br>
 
 ## 🗣️ Voice & sound
