@@ -30,6 +30,8 @@ This list is by no means complete. If you think a company should be added or a d
 
 **[lengoo](https://www.lengoo.com/)**: Translation service combining AI and linguists <!--linkedin:lengoo--> &nbsp;[👷 130](https://www.linkedin.com/company/lengoo/people/) &nbsp;[🔎 1](https://www.linkedin.com/company/lengoo/jobs/) &nbsp;[💰 Series A](https://www.crunchbase.com/organization/lengoo-gmbh/funding_rounds/funding_rounds_list?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=all_fundings)<!--endlinkedin-->
 
+**[LF1](https://lf1.io/)**: AI innovation lab for building great ML software and technology (e.g. [PADL](https://padl.lf1.io/)) <!--linkedin:lf1-io--> &nbsp;[👷 6](https://www.linkedin.com/company/lf1-io/people/)<!--endlinkedin-->
+
 <br>
 
 ## 🗣️ Voice & sound
