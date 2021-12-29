@@ -11,6 +11,10 @@ import getpass
 from linkedin_api import Linkedin
 from dotenv import load_dotenv
 import typer
+from rich.traceback import install
+
+
+install(show_locals=True)
 
 
 def main(skip_existing: bool = False, force: bool = False):
@@ -35,7 +39,7 @@ def main(skip_existing: bool = False, force: bool = False):
         typer.echo("LinkedIn account details read from .env")
 
     # Set up LinkedIn API.
-    api = Linkedin(email, password)
+    api = Linkedin(email, password, refresh_cookies=True)
 
     def create_company_description(name):
         """Create a markup description of the company from its LinkedIn `name`."""
