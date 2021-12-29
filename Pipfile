@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+linkedin-api = "==2.0.0a5"
+python-dotenv = "==0.15.0"
+typer = "==0.3.2"
+rich = "*"
+
+[dev-packages]
+black = "*"
+
+[requires]
+python_version = "3.8"
+
+[pipenv]
+allow_prereleases = true
