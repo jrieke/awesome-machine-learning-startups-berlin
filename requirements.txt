@@ -1,3 +1,0 @@
-linkedin_api==2.0.0a5
-python-dotenv==0.15.0
-typer==0.3.2
