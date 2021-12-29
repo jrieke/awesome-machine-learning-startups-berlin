@@ -148,6 +148,8 @@ This list is by no means complete. If you think a company should be added or a d
 
 ## 💰 Business
 
+**[3IVIS](https://3ivis.com/)**: Machine learning model development for financial institutions <!--linkedin:3ivis-gmbh--> &nbsp;[👷 4](https://www.linkedin.com/company/3ivis-gmbh/people/)<!--endlinkedin-->
+
 **[7Learnings](https://7learnings.com/)**: Smart dynamic pricing solution <!--linkedin:7learnings--> &nbsp;[👷 9](https://www.linkedin.com/company/7learnings/people/)<!--endlinkedin-->
 
 **[future demand](https://www.future-demand.com/)**: Predict and optimize demand, e.g. for concert tickets <!--linkedin:future-demand--> &nbsp;[👷 18](https://www.linkedin.com/company/future-demand/people/)<!--endlinkedin-->
