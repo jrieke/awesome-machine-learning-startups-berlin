@@ -20,9 +20,9 @@ install(show_locals=True)
 def main(skip_existing: bool = False, force: bool = False):
     """
     Pull company metadata from LinkedIn and write to tags in README.md.
-    
-    Add tags <!--linkedin:company_name--><!--endlinkedin--> to README.md, where 
-    `company_name` corresponds to the last piece of the company's LinkedIn URL. 
+
+    Add tags <!--linkedin:company_name--><!--endlinkedin--> to README.md, where
+    `company_name` corresponds to the last piece of the company's LinkedIn URL.
     """
 
     # Read LinkedIn account details from .env or terminal.
@@ -31,8 +31,10 @@ def main(skip_existing: bool = False, force: bool = False):
     password = os.getenv("LINKEDIN_PASSWORD")
     if email is None or password is None:
         typer.echo("Enter LinkedIn account to query the API (or use .env file)")
-        typer.echo("WARNING: Accounts with excessive API calls are sometimes blocked "
-                   "by LinkedIn.")
+        typer.echo(
+            "WARNING: Accounts with excessive API calls are sometimes blocked "
+            "by LinkedIn."
+        )
         email = input("LinkedIn email: ")
         password = getpass.getpass()
     else:
