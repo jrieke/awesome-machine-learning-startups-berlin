@@ -178,7 +178,7 @@ This list is by no means complete. If you think a company should be added or a d
 
 **[Gestalt Robotics](https://www.gestalt-robotics.com/)**: Service provider for industrial automation <!--linkedin:gestaltrobotics--> &nbsp;[👷 24](https://www.linkedin.com/company/gestaltrobotics/people/) &nbsp;[🔎 1](https://www.linkedin.com/company/gestaltrobotics/jobs/)<!--endlinkedin-->
 
-**[Merantix Momentum](https://www.merantix-momentum.com/)**: Innovative bespoke AI solutions for companies <!--linkedin:merantix-momentum--> &nbsp;[👷 34](https://www.linkedin.com/company/merantix-momentum/people/) &nbsp;[🔎 3](https://www.linkedin.com/company/merantix-momentum/jobs/)<!--endlinkedin-->
+**[Merantix Momentum](https://merantix-momentum.com/)**: Innovative bespoke AI solutions for companies <!--linkedin:merantix-momentum--> &nbsp;[👷 34](https://www.linkedin.com/company/merantix-momentum/people/) &nbsp;[🔎 3](https://www.linkedin.com/company/merantix-momentum/jobs/)<!--endlinkedin-->
 
 **[neurocat](https://www.neurocat.ai/)**: Research, consulting and dev-ops for AI <!--linkedin:neurocatai--> &nbsp;[👷 31](https://www.linkedin.com/company/neurocatai/people/) &nbsp;[🔎 1](https://www.linkedin.com/company/neurocatai/jobs/)<!--endlinkedin-->
 
