@@ -168,6 +168,9 @@ This list is by no means complete. If you think a company should be added or a d
 
 **[Tracks](https://www.tracksfortrucks.com/)**: Platform for intelligent logistics & supply chain management <!--linkedin:tracksfortrucks--> &nbsp;[👷 24](https://www.linkedin.com/company/tracksfortrucks/people/) &nbsp;[🔎 6](https://www.linkedin.com/company/tracksfortrucks/jobs/)<!--endlinkedin-->
 
+**[delphai](https://www.delphai.com/)**: B2B market insights platform with company search engine driven by AI and NLP <!--linkedin:delphai--> &nbsp;[👷 43](https://www.linkedin.com/company/delphai/people/) &nbsp;[🔎 3](https://www.linkedin.com/company/delphai/jobs/) &nbsp;[💰 Seed](https://www.crunchbase.com/organization/delphai/funding_rounds/funding_rounds_list?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=all_fundings)<!--endlinkedin-->
+
+
 <br>
 
 ## 👔 Consulting
